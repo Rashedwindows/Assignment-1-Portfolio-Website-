@@ -1,3 +1,8 @@
+/* google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
 *{
     margin:0;
     padding:0;
@@ -130,7 +135,7 @@ body{
     background-color: #FFF4D6;
     margin-left: 100px;
     border-radius: 15px;
-    padding-bottom: 5px;
+    padding-bottom: 50px;
 }
 
 .secondcard{
@@ -208,4 +213,82 @@ body{
    
     margin-top: 180px;
     margin-left: 100px;
+}
+
+.footer-div{
+
+    margin-top: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.footer-div h2{
+
+    color:white;
+    padding-bottom: 15px;
+}
+
+.clr-blue{
+
+    color:blue;
+}
+
+.last-section{
+
+    background-color: orangered;
+}
+
+.footer-div{
+
+    padding: 40px;
+}
+
+.footer-div p{
+
+    font-size: 12px;
+    color:white;
+
+}
+
+
+.says-section{
+
+    margin-top: 100px;
+    
+}
+
+
+.says-section h3{
+
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.client-says{
+
+    box-shadow: 2px 2px 15px gray;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.client-says p{
+
+    text-align: center;
+    margin-bottom:20px;
+    
+
+     
+}
+
+.client-says img{
+
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    
 }
