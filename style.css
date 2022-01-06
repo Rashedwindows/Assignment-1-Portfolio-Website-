@@ -1,5 +1,4 @@
 /* google fonts */
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 
@@ -7,68 +6,56 @@
     margin:0;
     padding:0;
 }
-
 body{
 
     font-family: 'Poppins', sans-serif;
 }
 
 .half-part{
-
     width: 50%;
 }
 
 .half-part img{
-
     width: 80%;
     margin-top: 50px;
 }
 
 .flexible-area{
-
     display: flex;
 }
 
 .content-set{
-
     margin-top: 180px;
-    margin-left: 100px;
-    
+    margin-left: 100px; 
 }
 
 
 
 .focused-mission h1{
-
     font-size: 60px;
     padding-left: 10px;
      
 }
 
 .focused-mission .border-clr{
-
     border-left: 4px solid;
     border-image: linear-gradient(purple,blue);
     border-image-slice: 1;
     height: 150px;
-    
 }
 
 
 .focused-mission .blue-mission{
-
     color:blue
 }
 
 .content-set p{
-
     margin-top: 30px;
 }
 
 .btn{
     text-decoration: none;
     font-size: 18px;
-    
     background-image: linear-gradient(blue,purple);
     color:white;
     padding: 10px 15px;
@@ -78,23 +65,19 @@ body{
 }
 
 .dimgray-p{
-
     color:dimgray;
 }
 
 .second-section{
-
     margin-top: 50px;
     text-align: center;
 }
 
 .second-section span{
-
     color:blue;
 }
 
 .second-section .mission-second{
-
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 50px;
@@ -102,7 +85,6 @@ body{
 }
 
 .card{
-
     width: 30%;
     margin-right: 2%;
     padding:0px 1%; 
@@ -110,14 +92,12 @@ body{
 
 
 .card img{
-
     width: 40%;
     margin-right: 95%;
     margin-top: 10%; 
 }
 
 .card h2{
-
     text-align: left;
     padding-left: 20px;
     padding-bottom: 20px;
@@ -125,13 +105,11 @@ body{
 }
 
 .card p{
-
     text-align: left;
     padding-left: 20px;
 }
 
 .firstcard{
-
     background-color: #FFF4D6;
     margin-left: 100px;
     border-radius: 15px;
@@ -139,7 +117,6 @@ body{
 }
 
 .secondcard{
-
     background-color: #EDF5F6;
     border-radius: 15px;
     padding-bottom: 5px;
@@ -154,7 +131,6 @@ body{
 
 
 .third-section{
-
     margin-top: 50px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -166,85 +142,68 @@ body{
 
 
 .third-section .second-pic{
-
     margin-left: 100px;
 }
 
 .third-section .second-pic img{
-
     width: 70%;
     margin-top: 18%;
 }
 
 .develop-unit h1{
-
     font-size: 40px;
 
 }
 
 .thirdcontent{
-
-   
     margin-top: 180px;
     margin-left: 10px;
 }
 
 .forth-section .third-pic img{
-
     width: 70%;
     margin-top: 18%;
     margin-left: 14%;
 }
 
 .forth-section{
-
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    
     background-position: right;
-    
     background-size: 15%;
 
    
 }
 
 .forthcontent{
-
-   
     margin-top: 180px;
     margin-left: 100px;
 }
 
 .footer-div{
-
     margin-top: 50px;
     text-align: center;
     font-size: 18px;
 }
 
 .footer-div h2{
-
     color:white;
     padding-bottom: 15px;
 }
 
 .clr-blue{
-
     color:blue;
 }
 
 .last-section{
-
     background-color: orangered;
 }
 
 .footer-div{
-
     padding: 40px;
 }
 
 .footer-div p{
-
     font-size: 12px;
     color:white;
 
@@ -252,14 +211,12 @@ body{
 
 
 .says-section{
-
     margin-top: 100px;
     
 }
 
 
 .says-section h3{
-
     text-align: center;
     font-size: 40px;
     font-weight: bold;
@@ -267,7 +224,6 @@ body{
 }
 
 .client-says{
-
     box-shadow: 2px 2px 15px gray;
     width: 1000px;
     margin: 0 auto;
@@ -277,7 +233,6 @@ body{
 }
 
 .client-says p{
-
     text-align: center;
     margin-bottom:20px;
     
@@ -286,7 +241,6 @@ body{
 }
 
 .client-says img{
-
     width: 100px;
     height:100px;
     border-radius: 50%;
