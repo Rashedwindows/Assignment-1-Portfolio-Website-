@@ -31,21 +31,24 @@ body{
     
 }
 
-.focused-mission{
 
-    border-left: 4px solid;
-    border-image: linear-gradient(purple,blue);
-    border-image-slice: 1;
-    
-    
-}
 
 .focused-mission h1{
 
     font-size: 60px;
     padding-left: 10px;
-   
+     
 }
+
+.focused-mission .border-clr{
+
+    border-left: 4px solid;
+    border-image: linear-gradient(purple,blue);
+    border-image-slice: 1;
+    height: 150px;
+    
+}
+
 
 .focused-mission .blue-mission{
 
@@ -69,4 +72,140 @@ body{
     border-radius: 6px;
 }
 
+.dimgray-p{
 
+    color:dimgray;
+}
+
+.second-section{
+
+    margin-top: 50px;
+    text-align: center;
+}
+
+.second-section span{
+
+    color:blue;
+}
+
+.second-section .mission-second{
+
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 50px;
+
+}
+
+.card{
+
+    width: 30%;
+    margin-right: 2%;
+    padding:0px 1%; 
+}
+
+
+.card img{
+
+    width: 40%;
+    margin-right: 95%;
+    margin-top: 10%; 
+}
+
+.card h2{
+
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+      
+}
+
+.card p{
+
+    text-align: left;
+    padding-left: 20px;
+}
+
+.firstcard{
+
+    background-color: #FFF4D6;
+    margin-left: 100px;
+    border-radius: 15px;
+    padding-bottom: 5px;
+}
+
+.secondcard{
+
+    background-color: #EDF5F6;
+    border-radius: 15px;
+    padding-bottom: 5px;
+}
+
+.thirdcard{
+    background-color: #FFEEEE;
+    border-radius: 15px;
+    padding-bottom: 20px;
+    
+}
+
+
+.third-section{
+
+    margin-top: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+    
+}
+
+
+
+.third-section .second-pic{
+
+    margin-left: 100px;
+}
+
+.third-section .second-pic img{
+
+    width: 70%;
+    margin-top: 18%;
+}
+
+.develop-unit h1{
+
+    font-size: 40px;
+
+}
+
+.thirdcontent{
+
+   
+    margin-top: 180px;
+    margin-left: 10px;
+}
+
+.forth-section .third-pic img{
+
+    width: 70%;
+    margin-top: 18%;
+    margin-left: 14%;
+}
+
+.forth-section{
+
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    
+    background-position: right;
+    
+    background-size: 15%;
+
+   
+}
+
+.forthcontent{
+
+   
+    margin-top: 180px;
+    margin-left: 100px;
+}
